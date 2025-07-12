@@ -1,0 +1,45 @@
+# TrendBot Standalone - Minimal Requirements
+# Cloud-compatible deployment
+
+# Core Telegram Bot
+python-telegram-bot==22.2
+
+# HTTP Client
+aiohttp==3.12.13
+
+# OpenAI API
+openai==1.93.1
+
+# Environment Variables
+python-dotenv==1.1.1
+
+# Async Support
+asyncio
+
+# Database (built-in)
+# sqlite3 is included with Python
+
+# Logging (built-in)
+# logging is included with Python
+
+# Data Classes (built-in)
+# dataclasses is included with Python 3.7+
+
+# Type Hints (built-in)
+# typing is included with Python 3.5+
+
+# Date/Time (built-in)
+# datetime is included with Python
+
+# Random (built-in)
+# random is included with Python
+
+# JSON (built-in)
+# json is included with Python
+
+# OS (built-in)
+# os is included with Python
+
+# System (built-in)
+# sys is included with Python
+
